@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, shrink-to-fit=no, initial-scale=1, user-scalable=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Cambio de datos personales</title>
+    <link rel="stylesheet" href="css/cambiodatospersonales.css">
+    <link rel="stylesheet" href="css/BarraNavWebApp.css">
+    <script src="js/cambio.js" defer></script>
+    <script src="js/menuJardinero.js"></script>
+    <script src="js/CerrarSesion.js"></script>
+</head>
+<body>
